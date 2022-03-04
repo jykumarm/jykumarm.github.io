@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8b6a3131.chunk.css",
+    "main.js": "/static/js/main.7eb38cfe.chunk.js",
+    "main.js.map": "/static/js/main.7eb38cfe.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c46e58d3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c46e58d3.js.map",
+    "static/js/2.f40e1d35.chunk.js": "/static/js/2.f40e1d35.chunk.js",
+    "static/js/2.f40e1d35.chunk.js.map": "/static/js/2.f40e1d35.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.17945f857436826174bb3fcaa47f62b7.js": "/precache-manifest.17945f857436826174bb3fcaa47f62b7.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.8b6a3131.chunk.css.map": "/static/css/main.8b6a3131.chunk.css.map",
+    "static/js/2.f40e1d35.chunk.js.LICENSE.txt": "/static/js/2.f40e1d35.chunk.js.LICENSE.txt",
+    "static/media/About.b6f1cde7.svg": "/static/media/About.b6f1cde7.svg",
+    "static/media/app.02b199b3.svg": "/static/media/app.02b199b3.svg",
+    "static/media/arrow.773aa939.svg": "/static/media/arrow.773aa939.svg",
+    "static/media/bulb1.bfac0a3a.svg": "/static/media/bulb1.bfac0a3a.svg",
+    "static/media/close.6058040a.svg": "/static/media/close.6058040a.svg",
+    "static/media/contact.ceb759ec.svg": "/static/media/contact.ceb759ec.svg",
+    "static/media/ekg.27838e0b.svg": "/static/media/ekg.27838e0b.svg",
+    "static/media/github.4b30194a.svg": "/static/media/github.4b30194a.svg",
+    "static/media/gmail.fc3ed060.svg": "/static/media/gmail.fc3ed060.svg",
+    "static/media/home.8b41ca2e.svg": "/static/media/home.8b41ca2e.svg",
+    "static/media/idea.1fcf633e.svg": "/static/media/idea.1fcf633e.svg",
+    "static/media/india.218c3941.svg": "/static/media/india.218c3941.svg",
+    "static/media/linkedin.21a464a9.svg": "/static/media/linkedin.21a464a9.svg",
+    "static/media/p1-c250.png": "/static/media/p1-c250.ed1967b7.png",
+    "static/media/p2-c250.png": "/static/media/p2-c250.6f39098e.png",
+    "static/media/phone.84548eb7.svg": "/static/media/phone.84548eb7.svg",
+    "static/media/ui.929bb3f7.svg": "/static/media/ui.929bb3f7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c46e58d3.js",
+    "static/js/2.f40e1d35.chunk.js",
+    "static/css/main.8b6a3131.chunk.css",
+    "static/js/main.7eb38cfe.chunk.js"
+  ]
+}
